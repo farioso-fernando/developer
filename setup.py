@@ -5,7 +5,7 @@ with open("README.md") as file:
 
 setuptools.setup(
     name="Developing Cockroach",
-    version="0.2.2",
+    version="0.3.0",
     author="Farioso Fernando",
     author_email="farioso.f@gmail.com",
     description="This is a simple package for outputting data to the terminal replacing the print function",
