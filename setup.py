@@ -4,7 +4,7 @@ with open("README.md") as file:
     read_me_description = file.read()
 
 setuptools.setup(
-    name="Developer",
+    name="Developing Cockroach",
     version="0.2.2",
     author="Farioso Fernando",
     author_email="farioso.f@gmail.com",

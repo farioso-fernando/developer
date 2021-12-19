@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: Developer
+Name: Developing-Cockroach
 Version: 0.2.2
 Summary: This is a simple package for outputting data to the terminal replacing the print function
 Home-page: https://github.com/farioso-fernando/developer
