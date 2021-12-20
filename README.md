@@ -25,7 +25,7 @@ The team decided to release the release naming as we felt it would be of great i
 *Note: This documentation is only valid for versions from 0.3.0*
 
 ## 🚀 Starting
-* [Official documentation in Portuguese](https://github.com/farioso-fernando/developer/doc/readme-pt.md)
+* [Official documentation in Portuguese](https://github.com/farioso-fernando/developer/blob/main/doc/readme-pt.md)
 
 These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes.
 
@@ -109,7 +109,7 @@ You can also see the list of all [contributors](https://github.com/farioso-ferna
 
 ## 📄 License
 
-This project is under MIT License - see the [LICENSE.md](https://github.com/farioso-fernando/developer/LICENSE) file for details.
+This project is under MIT License - see the [LICENSE.md](https://github.com/farioso-fernando/developer/blob/main/LICENSE) file for details.
 
 ## 🎁 Expressions of gratitude
 

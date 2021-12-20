@@ -98,7 +98,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/fa
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](https://github.com/farioso-fernando/developer/LICENSE) para detalhes.
+Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](https://github.com/farioso-fernando/developer/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
