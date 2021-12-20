@@ -1,2 +1,5 @@
 # Skipping my test files.
 tests/*.py
+*.tasuku
+.vscode/
+*__pycache__/*.py

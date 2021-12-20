@@ -11,7 +11,12 @@ OUTPUT: \033[33;2m[Log]:\033[0m\033[33m Hello World!\033[0m
 
 Note: You will see logs in yellow color on your system console. In the next update you will be able to choose the colors.
 """
-log = lambda message, name = "Log": print("\033[33;2m[{}]:\033[0m".format(name) + " " + "\033[33m{}\033[0m".format(message))
+
+def log(message, name = 'Log'):
+    def logFormatting(message, name):
+        return ("\033[33;2m[{}]:\033[0m".format(name) + " " + "\033[33m{}\033[0m".format(message)) 
+    print(logFormatting(message, name))
+
 log.__doc__ = """Returns the result printing in yellow color.
 
      Parameters:
@@ -21,4 +26,4 @@ log.__doc__ = """Returns the result printing in yellow color.
      The "message" parameter can take any type whether int or string, boolean or float.
 """
 if __name__ == "__main__":
-    log(message="Hello World!")
+    log(message="I, Cockroach!")
